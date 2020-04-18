@@ -105,6 +105,12 @@ a:hover {
     text-shadow: 2px 2px white, 2px 2px white;
 }
 
+#AboutMe::selection {
+    color: white;
+    background-color: gray;
+    text-shadow: none;
+}
+
 div#e {
     width: 100%;
     background: url(karl-lee-AFTPDwA6rIQ-unsplash.jpg);
